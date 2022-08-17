@@ -1,0 +1,39 @@
+###########################
+# Eclipse generated files #
+###########################
+.project
+.classpath
+.settings
+.checkstyle
+.externalToolBuilders
+.debug.log
+.Name
+test-output/
+#########################
+# Maven generated files #
+#########################
+target/
+######################
+# OS generated files #
+######################
+.DS_Store
+ehthumbs.db
+Icon?
+Thumbs.db
+###########################
+# Eclipse generated files #
+###########################
+.metadata/
+.project
+.classpath
+.settings
+.checkstyle
+.externalToolBuilders
+######################
+# Other files #
+######################
+report/*
+######################
+# Ignore All (xlsx) files #
+######################
+*.xlsx
